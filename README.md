@@ -1,7 +1,9 @@
 https://colab.research.google.com/drive/1nr10XR9U41YsFSPg93G52Q2B1osGoBFF?usp=sharing
 
 Описание TPM:
+
 ![image](https://user-images.githubusercontent.com/91340562/208302299-bc17581d-cb95-44c9-9cac-197cb4567810.png)
+
 (в нашем случае длину транскрипта принимаем за 1)
 
 Heatmap:
